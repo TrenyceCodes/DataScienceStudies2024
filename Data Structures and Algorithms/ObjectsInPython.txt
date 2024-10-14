@@ -1,0 +1,23 @@
+#OBJECTS IN PYTHON
+temperate = 98.6
+
+Identifier, Objects, Assignments Statements
+
+an assignment statement is this piece of code, it means that we set a value 
+to the variable name in the program
+    - temperate 98.6
+
+an reference assignment statement is assigning another variable value 
+to another variable name
+    - new_temperature = temperate
+
+Identifiers are variables are a group of characters, numbers or even symbols
+that identify or refer to variable, function, class, module, or other objects
+   - variable name temperate is an identifier
+
+Reserved Words in python(these cannot be changed by the programmer since it's 
+for special purposes )
+    - False, as, continue, else, from, in, not, return, yield
+    - None, assert, def, except, global, is, or, try
+    - True, break, del, finally, if, lambda, pass, while
+    - and, class, elif, for, import, nonlocal, raise, with
